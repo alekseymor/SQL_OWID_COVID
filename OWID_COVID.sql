@@ -1,0 +1,1 @@
+SELECT * FROM OWID_COVID.covid_vaccinations;
